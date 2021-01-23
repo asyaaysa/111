@@ -1,0 +1,69 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Электронный учебник</title>
+<meta name="keywords" content="clean blog template, html css layout" />
+<meta name="description" content="Clean Blog Template is provided by templatemo.com" />
+<link href="templatemo_style.css" rel="stylesheet" type="text/css" />
+<link href="s3slider.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="templatemo_wrapper">
+	<div id="templatemo_menu">
+        <ul>
+            <li><a href="index.html">Главная</a></li>
+        </ul>	
+    </div> 
+    <div id="templatemo_left_column">
+        <div id="templatemo_header">
+            <div id="site_title">
+                <h1><a href="index.html" target="_parent">Электронный <strong> учебник</strong><span>для студентов</span></a></h1>
+            </div>
+        </div> 
+        <div id="templatemo_sidebar">
+            <div id="templatemo_rss"> 
+            </div>
+            <h4>&nbsp;</h4>
+            <h4>Категории</h4>
+            <ul class="templatemo_list">
+                <li><a href="Lekciya.html" target="_parent">Лекция</a></li>
+                <li><a href="video.html" target="_parent">Видеоурок</a></li>
+                <li><a href="practica.html" target="_parent">Практика</a></li>
+            </ul> 
+            <div class="cleaner_h40"></div>
+      </div> 
+    </div> 
+    <div id="templatemo_right_column">
+    	<div id="featured_project">
+            <div id="slider">
+                <ul>
+                <img src="images/Без названия (1).jpg" width="450" height="285" alt=""/>
+                </ul>
+            </div>
+        </div> 
+        <div id="templatemo_main">
+            <div class="post_section">
+			<p>
+            Электронный учебник – это учебное издание, содержащее систематическое 
+			изложение учебной дисциплины или ее раздела, части, соответствующее 
+			государственному стандарту и учебной программе и официально утвержденное 
+			в качестве данного вида издания.
+            </p>
+			<p>
+			Электронный учебник – это электронное издание, частично или полностью 
+			заменяющее или дополняющее учебник и официально утвержденное в качестве 
+			данного вида издания.
+			</p>
+			<p>
+			Электронный учебник – это  текст, представленный в электронной форме и 
+			снабженный разветвленной системой связей, позволяющей мгновенно переходить 
+			от одного его фрагмента к другому в соответствии с некоторой иерархией фрагментов.
+			</p>
+            </div>     
+		</div>
+  <div class="cleaner"></div>
+  </div> 
+  <div class="cleaner_h20"></div>
+</div> 
+</body>
+</html>
