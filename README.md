@@ -5,7 +5,7 @@
 <title>land</title>
 <link href="style.css" rel="stylesheet" type="text/css">
 	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
-	<meta name="google-site-verification" content="8DPAY54U2wBBDXWMGs8-Qz44XFQDQjCEAHa-XiD8mdo" />
+	<meta name="google-site-verification" content="5FPbxVTCslFT4xJfBmZ_8xeXbSlnG3fxMKGWAsReRQA" />
 </head>
 <body>
 	<header>
